@@ -11,6 +11,7 @@ about a hospital or other healthcare facility.
 - SQLQueryPart1.sql, SQLQuery-Part2.sql, SQLQuery-Part3.sql, SQL-Query-Part4.sql, SQl-Query-Part5-.sql contains all the queries executed for the hospital database. These queries are divided into five parts to break down the queries that were execute. Also, this make more flexible for organization.
 
 ## Schema Diagram:
+![image](https://github.com/Sk2195/hospital_db_using-sql/assets/88911284/7d1beaa7-c476-4bdd-b72e-22a32937d1d7)
 
 
 
