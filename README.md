@@ -15,10 +15,12 @@ about a hospital or other healthcare facility.
 
 
 
-
-
 ## Table Creation
-- patients - has 
-
+- patients - Consists the information  about the patients including their patient_id, first_name, last_name, gender, birth_date,
+  city, province_id, allergies, height, weight.
+- doctors: Consists the information about the doctors including their doctor_id, first_name, last_name, speciality
+- admissions: Consists the information about the admissions including their patient_id, admission_date, discharge_date, diagnosis, attending_doctor_id
+- province_names: Consists the information about the province_names including province_id, province_name
+- 
 ## Sample Data:
 Sample data has been inserted into the tables to demonstrate the functionality of the database. This data includes patient admissions with corresponding diagnoses, doctor information, patient details, and provincial data.
