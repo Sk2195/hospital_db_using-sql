@@ -1,13 +1,19 @@
 ## Hospital Database Project
-
+- Welcome to the repository for the hospital.db databae. This repository is intended for the management of information
+about a hospital or other healthcare facility.
 
 ## Objective:
-The objective of this project is to create a comprehensive database schema for a hospital, including tables for patients, doctors, admissions, and provinces. This database will facilitate the management of patient information, doctor details, admissions records, and provincial data within the hospital system.
+- The objective of this project is to develop a database schema for a hospital, with table for patients, physicians, admissions, and provinces.
+  The hospital system will find it easier to manage patient data, physician information, admissions records, and province data with the help of this database.
+
+# Content
+- schema.sql: This file contains the SQL commands used to create the structure of the database tables, relationships and constraints.
+- 
 
 ## Schema Diagram:
 
-Database Creation:
-This database was created using SQL Server Management Studio. The following SQL queries can found in hospital_db document
+
+
 
 
 ## Table Creation
